@@ -4,7 +4,7 @@
   <name>Smallturingbot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="james.ronald@gmail.com">Turing Green</maintainer>
+  <maintainer email="llinqing238@gmail.com">Turing Green</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
